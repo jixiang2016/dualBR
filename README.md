@@ -46,3 +46,7 @@ To train model, please run the command below:
 ``` shell
 bash ./train.sh       ### Please refer to the script for more info.
 ```
+
+## Acknowledgement
+This project is implemented by partially referring to the code of work below:
+- [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
