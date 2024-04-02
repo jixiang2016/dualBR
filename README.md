@@ -12,7 +12,7 @@ This repository provides the official PyTorch implementation of the paper.
 Inspired by the complementary exposure characteristics of a global shutter (GS) camera and a rolling shutter (RS) camera, we propose a dual Blur-RS setting to solve the motion ambiguity of blur decomposition. As shown in the Figure below, the RS view not only provides local details but also implicitly captures the temporal order of latent frames. Meanwhile, GS view could be exploited to mitigate the initial-state ambiguity from RS counterpart.
 
 <br/>
-<img width="1000" alt="image" src="docs/img.png">
+<img width="800" alt="image" src="docs/img.png">
 <br/>
 
  
