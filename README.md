@@ -9,7 +9,7 @@ The University of Tokyo
 This repository provides the official PyTorch implementation of the paper.
 
 #### TL;DR
-This paper explores a novel in-between exposure mode called global reset release (GRR) shutter, which produces GS-like blur but with row-dependent blur magnitude. We take advantage of this unique characteristic of GRR to explore the latent frames within a single image and restore a clear counterpart by relying only on these latent contexts.
+Inspired by the complementary exposure characteristics of a global shutter (GS) camera and a rolling shutter (RS) camera, we propose a dual Blur-RS setting to solve the motion ambiguity of blur decomposition. As shown in the Figure below, the RS view not only provides local details but also implicitly captures the temporal order of latent frames. Meanwhile, GS view could be exploited to mitigate the initial-state ambiguity from RS counterpart.
 
 <img width="700" alt="image" src="docs/shutter_modes.png">
 
