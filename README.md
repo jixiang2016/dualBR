@@ -13,7 +13,6 @@ Inspired by the complementary exposure characteristics of a global shutter (GS) 
 
 <br/>
 <img width="800" alt="image" src="docs/img.png">
-<br/>
 
  
 ## Dependencies
