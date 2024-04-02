@@ -28,3 +28,19 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 ``` shell
 pip install -r requirements.txt
 ```
+
+## Data and Pretrained Model
+- Download datasets [realBR](https://drive.google.com/file/d/1rsr7mD1D6QfGMfN8UyEkx5eG6NeNfYzU/view?usp=sharing) <!--and synthetic data [GOPRO-VFI_copy]() based on [GOPRO](https://drive.google.com/file/d/1rJTmM9_mLCNzBUUhYIGldBYgup279E_f/view).-->
+- Unzip them under a specified directory by yourself.
+- Please download checkpoints from this [link](https://drive.google.com/drive/folders/172pk7ppPmbLkcaNvYyO4OOXgn0Ia9SR_?usp=sharing) and put them under root directory of this project.
+
+## Test
+To test PMBNet, please run the command below:
+``` shell
+bash ./test.sh       ### Please specify your data directory, data mode and output path in the script
+```
+## Train
+To train PMBNet, please run the command below:
+``` shell
+bash ./train.sh       ### Please refer to the script for more info.
+```
