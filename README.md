@@ -1,5 +1,5 @@
 ## Motion Blur Decomposition with Cross-shutter Guidance
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jixiang2016/dualBR)  [Arxiv](http://arxiv.org/abs/2404.01120) | [Paper]() | [Supp]( ) | [Project page](https://jixiang2016.github.io/dualBR_site)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jixiang2016/dualBR)  [Arxiv](http://arxiv.org/abs/2404.01120) | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ji_Motion_Blur_Decomposition_with_Cross-shutter_Guidance_CVPR_2024_paper.pdf) | [Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ji_Motion_Blur_Decomposition_CVPR_2024_supplemental.pdf) | [Project page](https://jixiang2016.github.io/dualBR_site)
 
 Xiang Ji, Haiyang Jiang, Yinqiang Zheng
 
